@@ -29,7 +29,3 @@ class Hero {
   }
 }
 
-// Exemplo de uso da classe
-const heroi = new Hero("Luzia", 25, "mago");
-heroi.atacar();
-
